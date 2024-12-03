@@ -12,8 +12,12 @@ About me: I am a recent graduate with an MA in Global Communication & Applied Tr
 
 
 [resume Jane Xian.pdf](https://github.com/user-attachments/files/17987464/resume.Jane.Xian.pdf)
+
 [Cover letter -Language access job in DC.pdf](https://github.com/user-attachments/files/17987466/Cover.letter.-Language.access.job.in.DC.pdf)
+
+
 [Translation Sample, Chinese-English.pdf](https://github.com/user-attachments/files/17987470/Translation.Sample.Chinese-English.pdf)
+
 [Usability test report.docx](https://github.com/user-attachments/files/17987486/Usability.test.report.docx)
 [Updated Procudeure Writing - Phrase.pdf](https://github.com/user-attachments/files/17987487/Updated.Procudeure.Writing.-.Phrase.pdf)
 
