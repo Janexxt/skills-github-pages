@@ -1,5 +1,5 @@
 ---
-Welcome to Jane's Portfolio
+title: Welcome to Jane's Portfolio
 ---
 
 Jane Xian
